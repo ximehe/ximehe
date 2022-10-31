@@ -8,6 +8,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ximehe&show_icons=true&theme=radical)](https://github.com/ximehe/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ximehe)](https://github.com/ximehe/github-readme-stats)
+
 
 <!---
 ximehe/ximehe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
