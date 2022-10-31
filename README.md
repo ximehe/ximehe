@@ -6,7 +6,7 @@
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ximehe)](https://github.com/ximehe/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ximehe&show_icons=true&theme=radical)](https://github.com/ximehe/github-readme-stats)
 
 
 <!---
