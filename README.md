@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Web Development at "Jovenes a Programar".
 - 👀 I like to learn about new technologies and investigate a little more every day.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ximehe=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ximehe)](https://github.com/ximehe/github-readme-stats)
 
 
 <!---
